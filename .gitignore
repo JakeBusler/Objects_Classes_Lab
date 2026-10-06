@@ -1,0 +1,16 @@
+# Executables and build artifacts
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+
+# VS Code / IDE configs
+.vscode/
+.vs/
+*.vcxproj*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
